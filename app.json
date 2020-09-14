@@ -1,0 +1,14 @@
+{
+    "name": "mytest01",
+    "description": "Deploy mytest01 on Heroku.",
+    "keywords": ["mytest01"],
+    "env": {
+        "UUID": {
+            "description": "UUID",
+            "value": "1ae82793-9f98-45ea-b965-b42c16e4db08"
+        }
+    },
+    "website": "https://github.com/surmur/",
+    "repository": "https://github.com/surmur/mytest01",
+    "stack": "container"
+}
